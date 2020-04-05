@@ -1,0 +1,12 @@
+{
+  "name": "node-escpos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "escpos": "^3.0.0-alpha.3",
+    "escpos-usb": "^3.0.0-alpha.2",
+    "express": "^4.17.1"
+  }
+}
