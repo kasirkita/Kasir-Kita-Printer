@@ -1,5 +1,5 @@
 ## Kasir Kita v.2.0
-Kasir Kita Prnter, aplikasi POS gratis dibuat menggunakan Nodejs
+Kasir Kita Printer, printer untuk Kasir Kita dibuat menggunakan Nodejs
 
 ## Requirement
 - Nodejs
@@ -10,7 +10,7 @@ Kasir Kita Prnter, aplikasi POS gratis dibuat menggunakan Nodejs
 Silahkan clone repository ini, atau download, setelah itu gunakan perintah `npm install` atau `yarn install`. 
 
 
-### Menjalankan dengan servis laravel
+### Menjalankan servis
 Untuk menjalankan servis ketikan `node server.js`
 
 ### Jika terjadi error saat print
